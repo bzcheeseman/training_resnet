@@ -242,4 +242,7 @@ pass forward in a network, and it may be advantageous to the training process to
 positive multiplier for the learning rate in a network's earlier layers. Overall, there are
 many improvements to make and we look forward to conducting further experimentation.
 
+### Author
+Aman LaChapelle
+
 
