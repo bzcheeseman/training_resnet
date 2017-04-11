@@ -46,7 +46,7 @@ class ResNet18(nn.Module):
         return x
 
 
-def calc_confusion_matrix(net, test_dataset):  # check this thing - not sure if it is quite right
+def calc_confusion_matrix(net, test_dataset):
 
     confusion_matrix = torch.zeros(10, 10)
     net.train(False)
@@ -166,7 +166,7 @@ def train_until_plateau(net, train_dataset, test_dataset, criterion,
                 plt.savefig("training/run_2_plots/%d" % (current_step))
                 plt.close()
 
-                # looks like 0.2*current_lr trains slower but better
+                # TODO: come up with better scheduling
                 if np.abs(np.mean(np.diff(np.array(accumulated_loss)))) <= 0.5 * current_lr:
 
                     current_lr = np.max([current_lr * 1e-1, ending_lr])

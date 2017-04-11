@@ -54,5 +54,3 @@ ENV/
 .ropeproject
 .idea/
 data/
-training/run_0/
-training/run_0_plots/
