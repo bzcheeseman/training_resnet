@@ -1,0 +1,724 @@
+/Users/Aman/anaconda3/bin/python /Users/Aman/code/JobApps/helmai/model.py
+[1,  1000] avg loss: 2.134
+Accuracy per class:
+plane   0.00000
+car   1.00000
+bird   0.00000
+cat   0.00000
+deer   0.00000
+dog   0.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   0.00113
+[1,  2000] avg loss: 1.696
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1,  3000] avg loss: 1.582
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   0.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1,  4000] avg loss: 1.502
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   0.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1,  5000] avg loss: 1.414
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   0.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1,  6000] avg loss: 1.359
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1,  7000] avg loss: 1.314
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1,  8000] avg loss: 1.241
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1,  9000] avg loss: 1.167
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   0.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1, 10000] avg loss: 1.165
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   0.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1, 11000] avg loss: 1.099
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[1, 12000] avg loss: 1.074
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2,  1000] avg loss: 1.005
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2,  2000] avg loss: 1.034
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2,  3000] avg loss: 0.979
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   0.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2,  4000] avg loss: 0.934
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2,  5000] avg loss: 0.939
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2,  6000] avg loss: 0.922
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2,  7000] avg loss: 0.919
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2,  8000] avg loss: 0.885
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2,  9000] avg loss: 0.875
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2, 10000] avg loss: 0.830
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2, 11000] avg loss: 0.842
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[2, 12000] avg loss: 0.802
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3,  1000] avg loss: 0.725
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3,  2000] avg loss: 0.759
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3,  3000] avg loss: 0.736
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3,  4000] avg loss: 0.731
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3,  5000] avg loss: 0.707
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3,  6000] avg loss: 0.691
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3,  7000] avg loss: 0.705
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3,  8000] avg loss: 0.682
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3,  9000] avg loss: 0.682
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3, 10000] avg loss: 0.675
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3, 11000] avg loss: 0.664
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[3, 12000] avg loss: 0.685
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4,  1000] avg loss: 0.585
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4,  2000] avg loss: 0.562
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4,  3000] avg loss: 0.571
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4,  4000] avg loss: 0.562
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4,  5000] avg loss: 0.592
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4,  6000] avg loss: 0.533
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4,  7000] avg loss: 0.551
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4,  8000] avg loss: 0.537
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4,  9000] avg loss: 0.557
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4, 10000] avg loss: 0.554
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4, 11000] avg loss: 0.519
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[4, 12000] avg loss: 0.462
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5,  1000] avg loss: 0.383
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5,  2000] avg loss: 0.362
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5,  3000] avg loss: 0.366
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5,  4000] avg loss: 0.361
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5,  5000] avg loss: 0.336
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5,  6000] avg loss: 0.349
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5,  7000] avg loss: 0.331
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5,  8000] avg loss: 0.324
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5,  9000] avg loss: 0.318
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5, 10000] avg loss: 0.332
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5, 11000] avg loss: 0.346
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+[5, 12000] avg loss: 0.337
+Accuracy per class:
+plane   1.00000
+car   1.00000
+bird   1.00000
+cat   1.00000
+deer   1.00000
+dog   1.00000
+frog   1.00000
+horse   1.00000
+ship   1.00000
+truck   1.00000
+Total Loss: 0.489
+
+Process finished with exit code 0
