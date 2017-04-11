@@ -1,10 +1,6 @@
 #
 # Created by Aman LaChapelle on 4/9/17.
 #
-# helmai
-# Copyright (c) 2017 Aman LaChapelle
-# Full license at helmai/LICENSE.txt
-#
 
 import torch
 import torch.optim as optim
