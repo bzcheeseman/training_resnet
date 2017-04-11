@@ -1,3 +1,0 @@
-mention learning rate decay
-
-talk about how it smooths out - see TensorBoard
